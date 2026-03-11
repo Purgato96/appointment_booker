@@ -3,8 +3,9 @@
 </script>
 
 <template>
-  <RouterView/>
+  <h1>Página Index.vue</h1>
 </template>
 
+<style scoped>
 
-<style scoped></style>
+</style>
